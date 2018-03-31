@@ -1,3 +1,9 @@
+/*
+ This is a program which describes the operations that can be performed on the double ended queue
+ This program has been taken from thecrazyprogrammer.com
+@author: THECRAZYPROGRAMMER.COM 
+*/
+
 #include<stdio.h>
 #include<process.h>
 #define MAX 30
